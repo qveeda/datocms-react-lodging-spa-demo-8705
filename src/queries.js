@@ -144,6 +144,7 @@ const detail = `query getDetail($id: ItemId!) {
       emailAddress
       facebookProfilePage
       twitterProfilePage
+      blog 
       image {
         url
       }

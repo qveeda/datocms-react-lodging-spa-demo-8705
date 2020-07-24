@@ -34,6 +34,9 @@ export default class Contact extends Component {
         </ul>
 
         <ul className="listing-details-sidebar social-profiles">
+ <li>
+            <i className="sl sl-icon-phone" /> {owner.blog}
+          </li>
           <li>
             <a
               target="_blank"

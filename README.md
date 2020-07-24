@@ -2,7 +2,7 @@ This app is a demo app for using DatoCMS contents via GraphQL api on a ReactJS a
 
 ## Setup the Project
 
-### Deploy on DatoCMS
+### Deploy on DatoCMS sssss
 
 Set up a DatoCMS project, with schema and data, to have a starting ground:
 

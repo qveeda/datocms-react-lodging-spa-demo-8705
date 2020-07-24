@@ -52,6 +52,16 @@ export default class Contact extends Component {
               className="twitter-profile"
             >
               <i className="fa fa-twitter" /> Twitter
+          </a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={owner.blog}
+              className="blog"
+            >
+              <i className="fa fa-twitter" /> blog
             </a>
           </li>
         </ul>
